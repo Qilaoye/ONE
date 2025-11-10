@@ -6308,7 +6308,7 @@
   left:0px;
   top:0px;
   width:351px;
-  height:184px;
+  height:237px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -6326,7 +6326,7 @@
   left:15px;
   top:318px;
   width:351px;
-  height:184px;
+  height:237px;
   display:flex;
 }
 #u1294 .text {
@@ -7040,6 +7040,102 @@
   width:100%;
 }
 #u1314_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1315_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:329px;
+  height:2px;
+}
+#u1315 {
+  border-width:0px;
+  position:absolute;
+  left:29px;
+  top:494px;
+  width:328px;
+  height:1px;
+  display:flex;
+}
+#u1315 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1315_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1316_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:12px;
+  height:20px;
+}
+#u1316 {
+  border-width:0px;
+  position:absolute;
+  left:345px;
+  top:506px;
+  width:12px;
+  height:20px;
+  display:flex;
+}
+#u1316 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1316_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1317_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1317 {
+  border-width:0px;
+  position:absolute;
+  left:43px;
+  top:508px;
+  width:87px;
+  height:16px;
+  display:flex;
+}
+#u1317 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1317_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
