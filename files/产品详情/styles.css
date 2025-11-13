@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u2135_img {
+#u2134_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,12 +24,42 @@
   width:576px;
   height:1280px;
 }
-#u2135 {
+#u2134 {
   border-width:0px;
   position:absolute;
   left:686px;
   top:0px;
   width:576px;
+  height:1280px;
+  display:flex;
+}
+#u2134 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u2134_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u2135_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:547px;
+  height:1280px;
+}
+#u2135 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:547px;
   height:1280px;
   display:flex;
 }
@@ -51,15 +81,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:547px;
+  width:576px;
   height:1280px;
 }
 #u2136 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:547px;
+  left:686px;
+  top:1345px;
+  width:576px;
   height:1280px;
   display:flex;
 }
@@ -87,7 +117,7 @@
 #u2137 {
   border-width:0px;
   position:absolute;
-  left:686px;
+  left:0px;
   top:1345px;
   width:576px;
   height:1280px;
@@ -117,8 +147,8 @@
 #u2138 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:1345px;
+  left:1423px;
+  top:0px;
   width:576px;
   height:1280px;
   display:flex;
@@ -147,7 +177,7 @@
 #u2139 {
   border-width:0px;
   position:absolute;
-  left:1423px;
+  left:2224px;
   top:0px;
   width:576px;
   height:1280px;
@@ -177,7 +207,7 @@
 #u2140 {
   border-width:0px;
   position:absolute;
-  left:2224px;
+  left:3009px;
   top:0px;
   width:576px;
   height:1280px;
@@ -191,36 +221,6 @@
   width:100%;
 }
 #u2140_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u2141_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:576px;
-  height:1280px;
-}
-#u2141 {
-  border-width:0px;
-  position:absolute;
-  left:3009px;
-  top:0px;
-  width:576px;
-  height:1280px;
-  display:flex;
-}
-#u2141 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u2141_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
