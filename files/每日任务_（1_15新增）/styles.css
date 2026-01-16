@@ -4426,7 +4426,7 @@
   left:0px;
   top:0px;
   width:342px;
-  height:56px;
+  height:62px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
   border:none;
@@ -4442,7 +4442,7 @@
   left:838px;
   top:538px;
   width:342px;
-  height:56px;
+  height:62px;
   display:flex;
   font-size:12px;
 }
@@ -4475,6 +4475,7 @@
   font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:400;
   font-style:normal;
+  color:#D9001B;
 }
 #u312 {
   border-width:0px;
@@ -4487,6 +4488,7 @@
   font-family:"Arial Normal", "Arial", sans-serif;
   font-weight:400;
   font-style:normal;
+  color:#D9001B;
 }
 #u312 .text {
   position:absolute;
